@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(48, 45, 45);
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.geral{
+    background-color: rgb(101, 67, 221);
+    position: relative;
+    left: 10%;
+    width: 80%;
+    height: 600px;
+    margin-top: 20px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+input.cremeinput{
+    position: relative;
+    top: 20px;
+    right: 90px;
+}
+input{
+    width:100px;
+    outline: none;
+}
+.resultados{
+    position: relative;
+    top: 100px;
+}
+.limparemenu{
+    position: relative;
+    top: 80%;
+}
